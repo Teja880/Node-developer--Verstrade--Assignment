@@ -15,6 +15,7 @@ Sample Output:
 55
 
 # Program 2: Balanced Substrings
+Function Name:  getBalancedSubstrings(S)
 This program finds all substrings in a given string that are balanced. A balanced substring is defined as a string that contains exactly two different characters, and each of those characters appears exactly the same number of times in the substring. Here is how it works:
 
 Input:
@@ -30,6 +31,7 @@ Sample Output:
 
 
 # Program 3: Migrating Rings
+Function Name:  migrateRings(N
 This program solves the classic Towers of Hanoi problem using recursion. The problem is to move a stack of N rings from plate A to plate B, using plate C as an auxiliary holder. The rings are sorted in ascending order by size, with the largest ring at the bottom of the stack. Here is how it works:
 
 Input:
